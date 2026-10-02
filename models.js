@@ -1,3 +1,4 @@
+// Model structures for Student class
 export class Student {
     constructor(id, name, courses = []) {
         //(read-only) [cite: 5]
