@@ -1,3 +1,4 @@
+// Main orchestration script for running student analytics report
 import { Student } from './models.js';
 import { fetchStudents } from './database.js';
 import {
