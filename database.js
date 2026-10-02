@@ -1,3 +1,4 @@
+// Simulated database module
 export function fetchStudents(callback) {
     console.log("Fetching data from database...");
 
