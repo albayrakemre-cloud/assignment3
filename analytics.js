@@ -1,3 +1,4 @@
+// Helper analytics functions
 // class avarage[cite: 4]
 export function calculateClassAverage(students, courseId) {
     let totalGrade = 0;
