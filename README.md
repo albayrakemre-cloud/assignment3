@@ -1,4 +1,4 @@
-# Assignment 3
+# Assignment 3 - Web Programming
 
 **Student Name:** Emre Albayrak
 
